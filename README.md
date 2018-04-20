@@ -1,6 +1,7 @@
 # UDP_rtd
 
 Implements a Client and a Server that communicate using UDP.
+
 Client:
 	Read in data (could be a string, could be a file).
 	Transmit bytes to a server socket.
