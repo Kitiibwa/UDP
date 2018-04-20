@@ -1,4 +1,4 @@
-# UDP_rtd
+# UDP
 
 Implements a Client and a Server that communicate using UDP.
 
